@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">MemoryGameKotlin</string>
+
+    <!-- Main -->
+    <string name="main_select_game">Select game</string>
+    <string name="main_game_type_4x3">4x3</string>
+    <string name="main_game_type_4x4">4x4</string>
+    <string name="main_game_type_4x5">4x5</string>
+
+    <!-- Game -->
+    <string name="game_ended_text">Game Ended, restarting…</string>
+</resources>
