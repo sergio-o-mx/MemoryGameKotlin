@@ -1,0 +1,12 @@
+/home/mxrampage/StudioProjects/MemoryGameKotlin/app/build/generated/source/navigation-args/debug/com/ioconnectservices/memorygamekotlin/dashboard/DashboardFragmentDirections.kt
+/home/mxrampage/StudioProjects/MemoryGameKotlin/app/src/main/java/com/ioconnectservices/memorygamekotlin/game/Game4x3Fragment.kt
+/home/mxrampage/StudioProjects/MemoryGameKotlin/app/src/main/java/com/ioconnectservices/memorygamekotlin/game/Game4x5Fragment.kt
+/home/mxrampage/StudioProjects/MemoryGameKotlin/app/src/main/java/com/ioconnectservices/memorygamekotlin/utils/StringUtils.kt
+/home/mxrampage/StudioProjects/MemoryGameKotlin/app/src/main/java/com/ioconnectservices/memorygamekotlin/MainActivity.kt
+/home/mxrampage/StudioProjects/MemoryGameKotlin/app/src/main/java/com/ioconnectservices/memorygamekotlin/dashboard/DashboardViewModel.kt
+/home/mxrampage/StudioProjects/MemoryGameKotlin/app/src/main/java/com/ioconnectservices/memorygamekotlin/dashboard/DashboardFragment.kt
+/home/mxrampage/StudioProjects/MemoryGameKotlin/app/src/main/java/com/ioconnectservices/memorygamekotlin/game/Game4x4Fragment.kt
+/home/mxrampage/StudioProjects/MemoryGameKotlin/app/src/main/java/com/ioconnectservices/memorygamekotlin/game/GameViewModel.kt
+/home/mxrampage/StudioProjects/MemoryGameKotlin/app/src/main/java/com/ioconnectservices/memorygamekotlin/models/Game.kt
+/home/mxrampage/StudioProjects/MemoryGameKotlin/app/src/main/java/com/ioconnectservices/memorygamekotlin/models/Card.kt
+/home/mxrampage/StudioProjects/MemoryGameKotlin/app/src/main/java/com/ioconnectservices/memorygamekotlin/utils/CardsUtils.kt

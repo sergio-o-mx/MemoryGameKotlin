@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:app="http://schemas.android.com/apk/res-auto"
+        xmlns:tools="http://schemas.android.com/tools"
+        android:id="@+id/navigation"
+        app:startDestination="@id/dashboardFragment">
+
+    <fragment
+            android:id="@+id/dashboardFragment"
+            android:name="com.ioconnectservices.memorygamekotlin.dashboard.DashboardFragment"
+            android:label="DashboardFragment"
+            tools:layout="@layout/fragment_dashboard">
+        <action
+                android:id="@+id/action_dashboardFragment_to_game4x4Fragment"
+                app:destination="@id/game4x4Fragment" />
+        <action
+                android:id="@+id/action_dashboardFragment_to_game4x3Fragment"
+                app:destination="@id/game4x3Fragment" />
+        <action
+                android:id="@+id/action_dashboardFragment_to_game4x5Fragment"
+                app:destination="@id/game4x5Fragment" />
+    </fragment>
+    <fragment
+            android:id="@+id/game4x3Fragment"
+            android:name="com.ioconnectservices.memorygamekotlin.game.Game4x3Fragment"
+            android:label="Game4x3Fragment"
+            tools:layout="@layout/fragment_game_1" />
+    <fragment
+            android:id="@+id/game4x4Fragment"
+            android:name="com.ioconnectservices.memorygamekotlin.game.Game4x4Fragment"
+            android:label="Game4x4Fragment"
+            tools:layout="@layout/fragment_game_2" />
+    <fragment
+            android:id="@+id/game4x5Fragment"
+            android:name="com.ioconnectservices.memorygamekotlin.game.Game4x5Fragment"
+            android:label="Game4x5Fragment"
+            tools:layout="@layout/fragment_game_3" />
+</navigation>

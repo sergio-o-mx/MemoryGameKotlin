@@ -1,189 +1,260 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /Users/sergioortega/AndroidStudioProjects/MemoryGameKotlin/app/src/main/AndroidManifest.xml:2:1-25:12
-INJECTED from /Users/sergioortega/AndroidStudioProjects/MemoryGameKotlin/app/src/main/AndroidManifest.xml:2:1-25:12
-INJECTED from /Users/sergioortega/AndroidStudioProjects/MemoryGameKotlin/app/src/main/AndroidManifest.xml:2:1-25:12
-INJECTED from /Users/sergioortega/AndroidStudioProjects/MemoryGameKotlin/app/src/main/AndroidManifest.xml:2:1-25:12
-MERGED from [com.android.databinding:adapters:3.4.1] /Users/sergioortega/.gradle/caches/transforms-2/files-2.1/38cd3b450c0406d3b670b0217c36afc5/AndroidManifest.xml:17:1-24:12
-MERGED from [com.android.databinding:library:3.4.1] /Users/sergioortega/.gradle/caches/transforms-2/files-2.1/67cca21dbc6851216338edf13732289c/AndroidManifest.xml:17:1-24:12
-MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/sergioortega/.gradle/caches/transforms-2/files-2.1/11152fc1b4fcb87751c4cb9032d3b457/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/sergioortega/.gradle/caches/transforms-2/files-2.1/17ebcfb74cc87c012af2b74d035f3712/AndroidManifest.xml:2:1-11:12
-MERGED from [android.arch.lifecycle:extensions:1.1.1] /Users/sergioortega/.gradle/caches/transforms-2/files-2.1/a086eb5297dfee64d9793ff7737e6f39/AndroidManifest.xml:17:1-30:12
-MERGED from [com.android.support:support-fragment:28.0.0] /Users/sergioortega/.gradle/caches/transforms-2/files-2.1/0021a879ff4780191e05ab0c2542ab75/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/sergioortega/.gradle/caches/transforms-2/files-2.1/e36cf3aff37684678c7680caf5e6f551/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-core-ui:28.0.0] /Users/sergioortega/.gradle/caches/transforms-2/files-2.1/544b7fd068de1becc1c266540a0ef0da/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-core-utils:28.0.0] /Users/sergioortega/.gradle/caches/transforms-2/files-2.1/e55b89fc5286bbce2c061f049807f2f7/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/sergioortega/.gradle/caches/transforms-2/files-2.1/f54940bc7921a1682af43146c9d92307/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:loader:28.0.0] /Users/sergioortega/.gradle/caches/transforms-2/files-2.1/8ec9231d98a00f0c01e30fc47938804f/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:viewpager:28.0.0] /Users/sergioortega/.gradle/caches/transforms-2/files-2.1/7dda8ee98ce3af9b42c1d852bf1dceca/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/sergioortega/.gradle/caches/transforms-2/files-2.1/dfd9f0170e9e32ba8c2e53d0dd991601/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:drawerlayout:28.0.0] /Users/sergioortega/.gradle/caches/transforms-2/files-2.1/312135fe8a1b71bfb573eeb687f80419/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/sergioortega/.gradle/caches/transforms-2/files-2.1/3e0b0be17de0ef6f2107c3f97526b649/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:customview:28.0.0] /Users/sergioortega/.gradle/caches/transforms-2/files-2.1/077cff7d89559fe5b06a2e0cbdbd771b/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/sergioortega/.gradle/caches/transforms-2/files-2.1/47025743445c37f6ca135949ea780a6b/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/sergioortega/.gradle/caches/transforms-2/files-2.1/37f51c7d74e8a0f557a0356095d83fda/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:support-compat:28.0.0] /Users/sergioortega/.gradle/caches/transforms-2/files-2.1/9f952bc5c964b53ec01ed1397ed851ef/AndroidManifest.xml:17:1-24:12
-MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/sergioortega/.gradle/caches/transforms-2/files-2.1/43dbd6e96f609272b4c2712083690478/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/sergioortega/.gradle/caches/transforms-2/files-2.1/5f67bb62a26ba73810a150a5863eeeaf/AndroidManifest.xml:17:1-25:12
-MERGED from [com.android.support:cursoradapter:28.0.0] /Users/sergioortega/.gradle/caches/transforms-2/files-2.1/baf61348b50f7f9875c56ce25adbd499/AndroidManifest.xml:17:1-22:12
-MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/sergioortega/.gradle/caches/transforms-2/files-2.1/bdddc04e71cb954f9deebbfef67323a5/AndroidManifest.xml:17:1-22:12
-MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/sergioortega/.gradle/caches/transforms-2/files-2.1/62ae5a6fd5a2c3bb29924c84bc6abddb/AndroidManifest.xml:17:1-22:12
-MERGED from [android.arch.core:runtime:1.1.1] /Users/sergioortega/.gradle/caches/transforms-2/files-2.1/e73050f956a00ac0d193d847ae8b00ea/AndroidManifest.xml:17:1-22:12
-MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/sergioortega/.gradle/caches/transforms-2/files-2.1/78054c2d459b6fb4ea0c810c141732f6/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:documentfile:28.0.0] /Users/sergioortega/.gradle/caches/transforms-2/files-2.1/a479bce8985d7662ac13ad3c9f8c2bf3/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/sergioortega/.gradle/caches/transforms-2/files-2.1/e7106d53ee1e2c9832045da46d3261fa/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:print:28.0.0] /Users/sergioortega/.gradle/caches/transforms-2/files-2.1/e5b2c3d903db37495709020220e0a621/AndroidManifest.xml:17:1-22:12
-MERGED from [com.android.support:interpolator:28.0.0] /Users/sergioortega/.gradle/caches/transforms-2/files-2.1/1b38873176e85012dbb1daa16366a953/AndroidManifest.xml:17:1-22:12
-INJECTED from /Users/sergioortega/AndroidStudioProjects/MemoryGameKotlin/app/src/main/AndroidManifest.xml:2:1-25:12
-INJECTED from /Users/sergioortega/AndroidStudioProjects/MemoryGameKotlin/app/src/main/AndroidManifest.xml:2:1-25:12
-INJECTED from /Users/sergioortega/AndroidStudioProjects/MemoryGameKotlin/app/src/main/AndroidManifest.xml:2:1-25:12
+ADDED from /home/mxrampage/StudioProjects/MemoryGameKotlin/app/src/main/AndroidManifest.xml:2:1-22:12
+INJECTED from /home/mxrampage/StudioProjects/MemoryGameKotlin/app/src/main/AndroidManifest.xml:2:1-22:12
+INJECTED from /home/mxrampage/StudioProjects/MemoryGameKotlin/app/src/main/AndroidManifest.xml:2:1-22:12
+INJECTED from /home/mxrampage/StudioProjects/MemoryGameKotlin/app/src/main/AndroidManifest.xml:2:1-22:12
+MERGED from [androidx.databinding:databinding-adapters:4.1.1] /home/mxrampage/.gradle/caches/transforms-2/files-2.1/6216e9621a12786946ff5402fc2f033b/databinding-adapters-4.1.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.databinding:databinding-runtime:4.1.1] /home/mxrampage/.gradle/caches/transforms-2/files-2.1/9aac24eb91e4f879977a5bf5b9c37157/databinding-runtime-4.1.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.databinding:viewbinding:4.1.1] /home/mxrampage/.gradle/caches/transforms-2/files-2.1/9add5d775da135dd49082ba631b3ac18/jetified-viewbinding-4.1.1/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.navigation:navigation-fragment-ktx:2.3.2] /home/mxrampage/.gradle/caches/transforms-2/files-2.1/dc38711550f81f23f431b9a0b8abcaa7/navigation-fragment-ktx-2.3.2/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment-ktx:1.2.5] /home/mxrampage/.gradle/caches/transforms-2/files-2.1/aff6b9b189533e67a2bb73851b2d7df8/jetified-fragment-ktx-1.2.5/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-ui-ktx:2.3.2] /home/mxrampage/.gradle/caches/transforms-2/files-2.1/454710d49ee0c1cac77bf91d5f9f39da/navigation-ui-ktx-2.3.2/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-runtime-ktx:2.3.2] /home/mxrampage/.gradle/caches/transforms-2/files-2.1/79a9301c3b5e685cb554a8a59b473142/navigation-runtime-ktx-2.3.2/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity-ktx:1.1.0] /home/mxrampage/.gradle/caches/transforms-2/files-2.1/85ae74c57985692f1fa3c5b181e73cd3/jetified-activity-ktx-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-common-ktx:2.3.2] /home/mxrampage/.gradle/caches/transforms-2/files-2.1/53956b02398def7684b897dbb018fca4/navigation-common-ktx-2.3.2/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core-ktx:1.3.2] /home/mxrampage/.gradle/caches/transforms-2/files-2.1/bc7f87090ca34390094702bb2008170d/jetified-core-ktx-1.3.2/AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.2.0] /home/mxrampage/.gradle/caches/transforms-2/files-2.1/7d67ad7ac45429e60c202009faa29f2d/jetified-lifecycle-livedata-core-ktx-2.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.2.0] /home/mxrampage/.gradle/caches/transforms-2/files-2.1/48520777e74a5e5088f9597951bf8191/jetified-lifecycle-viewmodel-ktx-2.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.2.0] /home/mxrampage/.gradle/caches/transforms-2/files-2.1/bc4dc3d0cdd01db84c64a8bb8a66f7b9/jetified-lifecycle-runtime-ktx-2.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] /home/mxrampage/.gradle/caches/transforms-2/files-2.1/83ee536ff85059f31aed7ca0e988de80/constraintlayout-2.0.4/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.navigation:navigation-ui:2.3.2] /home/mxrampage/.gradle/caches/transforms-2/files-2.1/235caf6e6ae91723124fa11cd961b2d6/navigation-ui-2.3.2/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.material:material:1.0.0] /home/mxrampage/.gradle/caches/transforms-2/files-2.1/7d3af674982b76d3f3fb4dc62ed30fe5/material-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat:1.2.0] /home/mxrampage/.gradle/caches/transforms-2/files-2.1/c6e850bffee516928e276ea7faf33a10/appcompat-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.2.0] /home/mxrampage/.gradle/caches/transforms-2/files-2.1/b1b153a2fc9fd35e23337c581a6cd8cf/lifecycle-extensions-2.2.0/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] /home/mxrampage/.gradle/caches/transforms-2/files-2.1/4017b1e91d552349d272b023704f46a0/recyclerview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /home/mxrampage/.gradle/caches/transforms-2/files-2.1/bbf4878879392771fd012fc1a72ad860/legacy-support-core-ui-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/mxrampage/.gradle/caches/transforms-2/files-2.1/3399da4652887216b1f15e9fea5a64cb/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] /home/mxrampage/.gradle/caches/transforms-2/files-2.1/366542bdc63c3dbd0b09bb106fe4a8e0/jetified-appcompat-resources-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-fragment:2.3.2] /home/mxrampage/.gradle/caches/transforms-2/files-2.1/db2a5176dd11fa70694996bbf2c63971/navigation-fragment-2.3.2/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment:1.2.5] /home/mxrampage/.gradle/caches/transforms-2/files-2.1/14eb105b29ee573fbe4f87451505304c/fragment-1.2.5/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /home/mxrampage/.gradle/caches/transforms-2/files-2.1/f379d95d0ff945370307735e7dfa5572/vectordrawable-animated-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /home/mxrampage/.gradle/caches/transforms-2/files-2.1/6cbf3df7a545fb9e98deff97defeff25/vectordrawable-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/mxrampage/.gradle/caches/transforms-2/files-2.1/271e6de7ce9db873cdad8b436fb11a39/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/mxrampage/.gradle/caches/transforms-2/files-2.1/a9f55779c108ee5eddcaf44a8396d1e0/legacy-support-core-utils-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] /home/mxrampage/.gradle/caches/transforms-2/files-2.1/0c7c4d6c761a5f35ff1701d1fe2abe7e/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.navigation:navigation-runtime:2.3.2] /home/mxrampage/.gradle/caches/transforms-2/files-2.1/3425f4f64275ce0af03596aea0af1191/navigation-runtime-2.3.2/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity:1.1.0] /home/mxrampage/.gradle/caches/transforms-2/files-2.1/e92b80f40cbcad08b59a54beaa5f20da/jetified-activity-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] /home/mxrampage/.gradle/caches/transforms-2/files-2.1/be488b41fa4da0b2563ef53aa9c1f1eb/drawerlayout-1.1.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /home/mxrampage/.gradle/caches/transforms-2/files-2.1/7bbde01db3879457cf011db9173e3000/coordinatorlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /home/mxrampage/.gradle/caches/transforms-2/files-2.1/2017aa7308790de222499aafe519048c/slidingpanelayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.1.0] /home/mxrampage/.gradle/caches/transforms-2/files-2.1/b1af35d851a7b1902f51e36b8a695b43/customview-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.transition:transition:1.3.0] /home/mxrampage/.gradle/caches/transforms-2/files-2.1/bf47b15611f180761b95369d1114cca0/transition-1.3.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-common:2.3.2] /home/mxrampage/.gradle/caches/transforms-2/files-2.1/c70848dad71b32fed76e2b128d2e0161/navigation-common-2.3.2/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /home/mxrampage/.gradle/caches/transforms-2/files-2.1/16a5a28bbde50a5a8011c3cdabbd45dd/swiperefreshlayout-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /home/mxrampage/.gradle/caches/transforms-2/files-2.1/220c57cc545be26c24641885e42cee89/asynclayoutinflater-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.3.2] /home/mxrampage/.gradle/caches/transforms-2/files-2.1/f61aee69993eeba717147da1a6c5c8bb/core-1.3.2/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.2.0] /home/mxrampage/.gradle/caches/transforms-2/files-2.1/d1a346107d3f3d50702f71cf732a4bab/jetified-lifecycle-process-2.2.0/AndroidManifest.xml:17:1-32:12
+MERGED from [androidx.lifecycle:lifecycle-service:2.2.0] /home/mxrampage/.gradle/caches/transforms-2/files-2.1/4d2b5f6b901203aa4dad0425927369ae/jetified-lifecycle-service-2.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] /home/mxrampage/.gradle/caches/transforms-2/files-2.1/a95739b442976ac2d9de40a12086ee6d/lifecycle-runtime-2.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.2.0] /home/mxrampage/.gradle/caches/transforms-2/files-2.1/33562edb2724523aa489688f428b2164/lifecycle-livedata-2.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.2.0] /home/mxrampage/.gradle/caches/transforms-2/files-2.1/933d816f20c84747cf4b75c608cb4345/jetified-lifecycle-viewmodel-savedstate-2.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.2.0] /home/mxrampage/.gradle/caches/transforms-2/files-2.1/5bad58fed49503834bcb7778444163d8/lifecycle-livedata-core-2.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /home/mxrampage/.gradle/caches/transforms-2/files-2.1/d54b1e1a7f5f51df407f964db1685795/core-runtime-2.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.0.0] /home/mxrampage/.gradle/caches/transforms-2/files-2.1/6b104855c44408f13ab9134850e3a15c/jetified-savedstate-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.2.0] /home/mxrampage/.gradle/caches/transforms-2/files-2.1/9ef2c05b6d3d960e32ce5469d4905268/lifecycle-viewmodel-2.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /home/mxrampage/.gradle/caches/transforms-2/files-2.1/4a993e2718a72ba4f84b8a60ea1226c0/versionedparcelable-1.1.0/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/mxrampage/.gradle/caches/transforms-2/files-2.1/c4504c46a8f8c951228c8b302e2173c2/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cardview:cardview:1.0.0] /home/mxrampage/.gradle/caches/transforms-2/files-2.1/3990a8ed717bd2bc6e24bbecabdfebbf/cardview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/mxrampage/.gradle/caches/transforms-2/files-2.1/a31c29a3471d6c5319ef70007865485e/documentfile-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/mxrampage/.gradle/caches/transforms-2/files-2.1/b3f7371cde680362c540ce073b89b922/localbroadcastmanager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /home/mxrampage/.gradle/caches/transforms-2/files-2.1/e2e0f1f666c21bac62fa414c412f1b23/print-1.0.0/AndroidManifest.xml:17:1-22:12
+INJECTED from /home/mxrampage/StudioProjects/MemoryGameKotlin/app/src/main/AndroidManifest.xml:2:1-22:12
+INJECTED from /home/mxrampage/StudioProjects/MemoryGameKotlin/app/src/main/AndroidManifest.xml:2:1-22:12
+INJECTED from /home/mxrampage/StudioProjects/MemoryGameKotlin/app/src/main/AndroidManifest.xml:2:1-22:12
 	package
-		ADDED from /Users/sergioortega/AndroidStudioProjects/MemoryGameKotlin/app/src/main/AndroidManifest.xml:3:58-106
-		INJECTED from /Users/sergioortega/AndroidStudioProjects/MemoryGameKotlin/app/src/main/AndroidManifest.xml
-		INJECTED from /Users/sergioortega/AndroidStudioProjects/MemoryGameKotlin/app/src/main/AndroidManifest.xml
+		ADDED from /home/mxrampage/StudioProjects/MemoryGameKotlin/app/src/main/AndroidManifest.xml:3:58-106
+		INJECTED from /home/mxrampage/StudioProjects/MemoryGameKotlin/app/src/main/AndroidManifest.xml
+		INJECTED from /home/mxrampage/StudioProjects/MemoryGameKotlin/app/src/main/AndroidManifest.xml
 	android:versionName
-		INJECTED from /Users/sergioortega/AndroidStudioProjects/MemoryGameKotlin/app/src/main/AndroidManifest.xml
-		ADDED from /Users/sergioortega/AndroidStudioProjects/MemoryGameKotlin/app/src/main/AndroidManifest.xml:2:1-25:12
-		INJECTED from /Users/sergioortega/AndroidStudioProjects/MemoryGameKotlin/app/src/main/AndroidManifest.xml
+		INJECTED from /home/mxrampage/StudioProjects/MemoryGameKotlin/app/src/main/AndroidManifest.xml
+		ADDED from /home/mxrampage/StudioProjects/MemoryGameKotlin/app/src/main/AndroidManifest.xml:2:1-22:12
+		INJECTED from /home/mxrampage/StudioProjects/MemoryGameKotlin/app/src/main/AndroidManifest.xml
 	xmlns:tools
-		ADDED from /Users/sergioortega/AndroidStudioProjects/MemoryGameKotlin/app/src/main/AndroidManifest.xml:3:11-57
+		ADDED from /home/mxrampage/StudioProjects/MemoryGameKotlin/app/src/main/AndroidManifest.xml:3:11-57
 	android:versionCode
-		INJECTED from /Users/sergioortega/AndroidStudioProjects/MemoryGameKotlin/app/src/main/AndroidManifest.xml
-		ADDED from /Users/sergioortega/AndroidStudioProjects/MemoryGameKotlin/app/src/main/AndroidManifest.xml:2:1-25:12
-		INJECTED from /Users/sergioortega/AndroidStudioProjects/MemoryGameKotlin/app/src/main/AndroidManifest.xml
+		INJECTED from /home/mxrampage/StudioProjects/MemoryGameKotlin/app/src/main/AndroidManifest.xml
+		ADDED from /home/mxrampage/StudioProjects/MemoryGameKotlin/app/src/main/AndroidManifest.xml:2:1-22:12
+		INJECTED from /home/mxrampage/StudioProjects/MemoryGameKotlin/app/src/main/AndroidManifest.xml
 	xmlns:android
-		ADDED from /Users/sergioortega/AndroidStudioProjects/MemoryGameKotlin/app/src/main/AndroidManifest.xml:2:11-69
+		ADDED from /home/mxrampage/StudioProjects/MemoryGameKotlin/app/src/main/AndroidManifest.xml:2:11-69
 application
-ADDED from /Users/sergioortega/AndroidStudioProjects/MemoryGameKotlin/app/src/main/AndroidManifest.xml:5:5-23:19
-MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/sergioortega/.gradle/caches/transforms-2/files-2.1/17ebcfb74cc87c012af2b74d035f3712/AndroidManifest.xml:9:5-20
-MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/sergioortega/.gradle/caches/transforms-2/files-2.1/17ebcfb74cc87c012af2b74d035f3712/AndroidManifest.xml:9:5-20
-MERGED from [android.arch.lifecycle:extensions:1.1.1] /Users/sergioortega/.gradle/caches/transforms-2/files-2.1/a086eb5297dfee64d9793ff7737e6f39/AndroidManifest.xml:22:5-28:19
-MERGED from [android.arch.lifecycle:extensions:1.1.1] /Users/sergioortega/.gradle/caches/transforms-2/files-2.1/a086eb5297dfee64d9793ff7737e6f39/AndroidManifest.xml:22:5-28:19
-MERGED from [com.android.support:support-compat:28.0.0] /Users/sergioortega/.gradle/caches/transforms-2/files-2.1/9f952bc5c964b53ec01ed1397ed851ef/AndroidManifest.xml:22:5-94
-MERGED from [com.android.support:support-compat:28.0.0] /Users/sergioortega/.gradle/caches/transforms-2/files-2.1/9f952bc5c964b53ec01ed1397ed851ef/AndroidManifest.xml:22:5-94
-MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/sergioortega/.gradle/caches/transforms-2/files-2.1/5f67bb62a26ba73810a150a5863eeeaf/AndroidManifest.xml:22:5-23:19
-MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/sergioortega/.gradle/caches/transforms-2/files-2.1/5f67bb62a26ba73810a150a5863eeeaf/AndroidManifest.xml:22:5-23:19
+ADDED from /home/mxrampage/StudioProjects/MemoryGameKotlin/app/src/main/AndroidManifest.xml:5:5-20:19
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] /home/mxrampage/.gradle/caches/transforms-2/files-2.1/83ee536ff85059f31aed7ca0e988de80/constraintlayout-2.0.4/AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] /home/mxrampage/.gradle/caches/transforms-2/files-2.1/83ee536ff85059f31aed7ca0e988de80/constraintlayout-2.0.4/AndroidManifest.xml:9:5-20
+MERGED from [com.google.android.material:material:1.0.0] /home/mxrampage/.gradle/caches/transforms-2/files-2.1/7d3af674982b76d3f3fb4dc62ed30fe5/material-1.0.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.0.0] /home/mxrampage/.gradle/caches/transforms-2/files-2.1/7d3af674982b76d3f3fb4dc62ed30fe5/material-1.0.0/AndroidManifest.xml:22:5-20
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.2.0] /home/mxrampage/.gradle/caches/transforms-2/files-2.1/b1b153a2fc9fd35e23337c581a6cd8cf/lifecycle-extensions-2.2.0/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.2.0] /home/mxrampage/.gradle/caches/transforms-2/files-2.1/b1b153a2fc9fd35e23337c581a6cd8cf/lifecycle-extensions-2.2.0/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.core:core:1.3.2] /home/mxrampage/.gradle/caches/transforms-2/files-2.1/f61aee69993eeba717147da1a6c5c8bb/core-1.3.2/AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.3.2] /home/mxrampage/.gradle/caches/transforms-2/files-2.1/f61aee69993eeba717147da1a6c5c8bb/core-1.3.2/AndroidManifest.xml:24:5-89
+MERGED from [androidx.lifecycle:lifecycle-process:2.2.0] /home/mxrampage/.gradle/caches/transforms-2/files-2.1/d1a346107d3f3d50702f71cf732a4bab/jetified-lifecycle-process-2.2.0/AndroidManifest.xml:24:5-30:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.2.0] /home/mxrampage/.gradle/caches/transforms-2/files-2.1/d1a346107d3f3d50702f71cf732a4bab/jetified-lifecycle-process-2.2.0/AndroidManifest.xml:24:5-30:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /home/mxrampage/.gradle/caches/transforms-2/files-2.1/4a993e2718a72ba4f84b8a60ea1226c0/versionedparcelable-1.1.0/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /home/mxrampage/.gradle/caches/transforms-2/files-2.1/4a993e2718a72ba4f84b8a60ea1226c0/versionedparcelable-1.1.0/AndroidManifest.xml:24:5-25:19
 	android:appComponentFactory
-		ADDED from [com.android.support:support-compat:28.0.0] /Users/sergioortega/.gradle/caches/transforms-2/files-2.1/9f952bc5c964b53ec01ed1397ed851ef/AndroidManifest.xml:22:18-91
+		ADDED from [androidx.core:core:1.3.2] /home/mxrampage/.gradle/caches/transforms-2/files-2.1/f61aee69993eeba717147da1a6c5c8bb/core-1.3.2/AndroidManifest.xml:24:18-86
 	android:supportsRtl
-		ADDED from /Users/sergioortega/AndroidStudioProjects/MemoryGameKotlin/app/src/main/AndroidManifest.xml:10:13-39
+		ADDED from /home/mxrampage/StudioProjects/MemoryGameKotlin/app/src/main/AndroidManifest.xml:10:13-39
 	android:label
-		ADDED from /Users/sergioortega/AndroidStudioProjects/MemoryGameKotlin/app/src/main/AndroidManifest.xml:8:13-45
+		ADDED from /home/mxrampage/StudioProjects/MemoryGameKotlin/app/src/main/AndroidManifest.xml:8:13-45
 	tools:ignore
-		ADDED from /Users/sergioortega/AndroidStudioProjects/MemoryGameKotlin/app/src/main/AndroidManifest.xml:11:45-84
+		ADDED from /home/mxrampage/StudioProjects/MemoryGameKotlin/app/src/main/AndroidManifest.xml:11:45-84
 	android:roundIcon
-		ADDED from /Users/sergioortega/AndroidStudioProjects/MemoryGameKotlin/app/src/main/AndroidManifest.xml:9:13-58
+		ADDED from /home/mxrampage/StudioProjects/MemoryGameKotlin/app/src/main/AndroidManifest.xml:9:13-58
 	android:icon
-		ADDED from /Users/sergioortega/AndroidStudioProjects/MemoryGameKotlin/app/src/main/AndroidManifest.xml:7:13-47
+		ADDED from /home/mxrampage/StudioProjects/MemoryGameKotlin/app/src/main/AndroidManifest.xml:7:13-47
 	android:allowBackup
-		ADDED from /Users/sergioortega/AndroidStudioProjects/MemoryGameKotlin/app/src/main/AndroidManifest.xml:6:13-40
+		ADDED from /home/mxrampage/StudioProjects/MemoryGameKotlin/app/src/main/AndroidManifest.xml:6:13-40
 	android:theme
-		ADDED from /Users/sergioortega/AndroidStudioProjects/MemoryGameKotlin/app/src/main/AndroidManifest.xml:11:13-44
-activity#com.ioconnectservices.memorygamekotlin.views.MainActivity
-ADDED from /Users/sergioortega/AndroidStudioProjects/MemoryGameKotlin/app/src/main/AndroidManifest.xml:12:9-19:20
+		ADDED from /home/mxrampage/StudioProjects/MemoryGameKotlin/app/src/main/AndroidManifest.xml:11:13-44
+activity#com.ioconnectservices.memorygamekotlin.MainActivity
+ADDED from /home/mxrampage/StudioProjects/MemoryGameKotlin/app/src/main/AndroidManifest.xml:12:9-19:20
 	android:screenOrientation
-		ADDED from /Users/sergioortega/AndroidStudioProjects/MemoryGameKotlin/app/src/main/AndroidManifest.xml:13:19-55
+		ADDED from /home/mxrampage/StudioProjects/MemoryGameKotlin/app/src/main/AndroidManifest.xml:13:19-55
 	android:name
-		ADDED from /Users/sergioortega/AndroidStudioProjects/MemoryGameKotlin/app/src/main/AndroidManifest.xml:12:19-53
+		ADDED from /home/mxrampage/StudioProjects/MemoryGameKotlin/app/src/main/AndroidManifest.xml:12:19-47
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from /Users/sergioortega/AndroidStudioProjects/MemoryGameKotlin/app/src/main/AndroidManifest.xml:14:13-18:29
+ADDED from /home/mxrampage/StudioProjects/MemoryGameKotlin/app/src/main/AndroidManifest.xml:14:13-18:29
 action#android.intent.action.MAIN
-ADDED from /Users/sergioortega/AndroidStudioProjects/MemoryGameKotlin/app/src/main/AndroidManifest.xml:15:17-68
+ADDED from /home/mxrampage/StudioProjects/MemoryGameKotlin/app/src/main/AndroidManifest.xml:15:17-68
 	android:name
-		ADDED from /Users/sergioortega/AndroidStudioProjects/MemoryGameKotlin/app/src/main/AndroidManifest.xml:15:25-66
+		ADDED from /home/mxrampage/StudioProjects/MemoryGameKotlin/app/src/main/AndroidManifest.xml:15:25-66
 category#android.intent.category.LAUNCHER
-ADDED from /Users/sergioortega/AndroidStudioProjects/MemoryGameKotlin/app/src/main/AndroidManifest.xml:17:17-76
+ADDED from /home/mxrampage/StudioProjects/MemoryGameKotlin/app/src/main/AndroidManifest.xml:17:17-76
 	android:name
-		ADDED from /Users/sergioortega/AndroidStudioProjects/MemoryGameKotlin/app/src/main/AndroidManifest.xml:17:27-74
-activity#com.ioconnectservices.memorygamekotlin.views.GameActivity
-ADDED from /Users/sergioortega/AndroidStudioProjects/MemoryGameKotlin/app/src/main/AndroidManifest.xml:20:9-22:69
-	android:screenOrientation
-		ADDED from /Users/sergioortega/AndroidStudioProjects/MemoryGameKotlin/app/src/main/AndroidManifest.xml:21:19-55
-	android:parentActivityName
-		ADDED from /Users/sergioortega/AndroidStudioProjects/MemoryGameKotlin/app/src/main/AndroidManifest.xml:22:19-67
-	android:name
-		ADDED from /Users/sergioortega/AndroidStudioProjects/MemoryGameKotlin/app/src/main/AndroidManifest.xml:20:19-53
+		ADDED from /home/mxrampage/StudioProjects/MemoryGameKotlin/app/src/main/AndroidManifest.xml:17:27-74
 uses-sdk
-INJECTED from /Users/sergioortega/AndroidStudioProjects/MemoryGameKotlin/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
-INJECTED from /Users/sergioortega/AndroidStudioProjects/MemoryGameKotlin/app/src/main/AndroidManifest.xml
-INJECTED from /Users/sergioortega/AndroidStudioProjects/MemoryGameKotlin/app/src/main/AndroidManifest.xml
-MERGED from [com.android.databinding:adapters:3.4.1] /Users/sergioortega/.gradle/caches/transforms-2/files-2.1/38cd3b450c0406d3b670b0217c36afc5/AndroidManifest.xml:22:5-44
-MERGED from [com.android.databinding:adapters:3.4.1] /Users/sergioortega/.gradle/caches/transforms-2/files-2.1/38cd3b450c0406d3b670b0217c36afc5/AndroidManifest.xml:22:5-44
-MERGED from [com.android.databinding:library:3.4.1] /Users/sergioortega/.gradle/caches/transforms-2/files-2.1/67cca21dbc6851216338edf13732289c/AndroidManifest.xml:22:5-44
-MERGED from [com.android.databinding:library:3.4.1] /Users/sergioortega/.gradle/caches/transforms-2/files-2.1/67cca21dbc6851216338edf13732289c/AndroidManifest.xml:22:5-44
-MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/sergioortega/.gradle/caches/transforms-2/files-2.1/11152fc1b4fcb87751c4cb9032d3b457/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:appcompat-v7:28.0.0] /Users/sergioortega/.gradle/caches/transforms-2/files-2.1/11152fc1b4fcb87751c4cb9032d3b457/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/sergioortega/.gradle/caches/transforms-2/files-2.1/17ebcfb74cc87c012af2b74d035f3712/AndroidManifest.xml:5:5-7:41
-MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /Users/sergioortega/.gradle/caches/transforms-2/files-2.1/17ebcfb74cc87c012af2b74d035f3712/AndroidManifest.xml:5:5-7:41
-MERGED from [android.arch.lifecycle:extensions:1.1.1] /Users/sergioortega/.gradle/caches/transforms-2/files-2.1/a086eb5297dfee64d9793ff7737e6f39/AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:extensions:1.1.1] /Users/sergioortega/.gradle/caches/transforms-2/files-2.1/a086eb5297dfee64d9793ff7737e6f39/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-fragment:28.0.0] /Users/sergioortega/.gradle/caches/transforms-2/files-2.1/0021a879ff4780191e05ab0c2542ab75/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-fragment:28.0.0] /Users/sergioortega/.gradle/caches/transforms-2/files-2.1/0021a879ff4780191e05ab0c2542ab75/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/sergioortega/.gradle/caches/transforms-2/files-2.1/e36cf3aff37684678c7680caf5e6f551/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:animated-vector-drawable:28.0.0] /Users/sergioortega/.gradle/caches/transforms-2/files-2.1/e36cf3aff37684678c7680caf5e6f551/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-core-ui:28.0.0] /Users/sergioortega/.gradle/caches/transforms-2/files-2.1/544b7fd068de1becc1c266540a0ef0da/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-core-ui:28.0.0] /Users/sergioortega/.gradle/caches/transforms-2/files-2.1/544b7fd068de1becc1c266540a0ef0da/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-core-utils:28.0.0] /Users/sergioortega/.gradle/caches/transforms-2/files-2.1/e55b89fc5286bbce2c061f049807f2f7/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-core-utils:28.0.0] /Users/sergioortega/.gradle/caches/transforms-2/files-2.1/e55b89fc5286bbce2c061f049807f2f7/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/sergioortega/.gradle/caches/transforms-2/files-2.1/f54940bc7921a1682af43146c9d92307/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-vector-drawable:28.0.0] /Users/sergioortega/.gradle/caches/transforms-2/files-2.1/f54940bc7921a1682af43146c9d92307/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:loader:28.0.0] /Users/sergioortega/.gradle/caches/transforms-2/files-2.1/8ec9231d98a00f0c01e30fc47938804f/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:loader:28.0.0] /Users/sergioortega/.gradle/caches/transforms-2/files-2.1/8ec9231d98a00f0c01e30fc47938804f/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:viewpager:28.0.0] /Users/sergioortega/.gradle/caches/transforms-2/files-2.1/7dda8ee98ce3af9b42c1d852bf1dceca/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:viewpager:28.0.0] /Users/sergioortega/.gradle/caches/transforms-2/files-2.1/7dda8ee98ce3af9b42c1d852bf1dceca/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/sergioortega/.gradle/caches/transforms-2/files-2.1/dfd9f0170e9e32ba8c2e53d0dd991601/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:coordinatorlayout:28.0.0] /Users/sergioortega/.gradle/caches/transforms-2/files-2.1/dfd9f0170e9e32ba8c2e53d0dd991601/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:drawerlayout:28.0.0] /Users/sergioortega/.gradle/caches/transforms-2/files-2.1/312135fe8a1b71bfb573eeb687f80419/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:drawerlayout:28.0.0] /Users/sergioortega/.gradle/caches/transforms-2/files-2.1/312135fe8a1b71bfb573eeb687f80419/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/sergioortega/.gradle/caches/transforms-2/files-2.1/3e0b0be17de0ef6f2107c3f97526b649/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:slidingpanelayout:28.0.0] /Users/sergioortega/.gradle/caches/transforms-2/files-2.1/3e0b0be17de0ef6f2107c3f97526b649/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:customview:28.0.0] /Users/sergioortega/.gradle/caches/transforms-2/files-2.1/077cff7d89559fe5b06a2e0cbdbd771b/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:customview:28.0.0] /Users/sergioortega/.gradle/caches/transforms-2/files-2.1/077cff7d89559fe5b06a2e0cbdbd771b/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/sergioortega/.gradle/caches/transforms-2/files-2.1/47025743445c37f6ca135949ea780a6b/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:swiperefreshlayout:28.0.0] /Users/sergioortega/.gradle/caches/transforms-2/files-2.1/47025743445c37f6ca135949ea780a6b/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/sergioortega/.gradle/caches/transforms-2/files-2.1/37f51c7d74e8a0f557a0356095d83fda/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:asynclayoutinflater:28.0.0] /Users/sergioortega/.gradle/caches/transforms-2/files-2.1/37f51c7d74e8a0f557a0356095d83fda/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-compat:28.0.0] /Users/sergioortega/.gradle/caches/transforms-2/files-2.1/9f952bc5c964b53ec01ed1397ed851ef/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-compat:28.0.0] /Users/sergioortega/.gradle/caches/transforms-2/files-2.1/9f952bc5c964b53ec01ed1397ed851ef/AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/sergioortega/.gradle/caches/transforms-2/files-2.1/43dbd6e96f609272b4c2712083690478/AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:runtime:1.1.1] /Users/sergioortega/.gradle/caches/transforms-2/files-2.1/43dbd6e96f609272b4c2712083690478/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/sergioortega/.gradle/caches/transforms-2/files-2.1/5f67bb62a26ba73810a150a5863eeeaf/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:versionedparcelable:28.0.0] /Users/sergioortega/.gradle/caches/transforms-2/files-2.1/5f67bb62a26ba73810a150a5863eeeaf/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:cursoradapter:28.0.0] /Users/sergioortega/.gradle/caches/transforms-2/files-2.1/baf61348b50f7f9875c56ce25adbd499/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:cursoradapter:28.0.0] /Users/sergioortega/.gradle/caches/transforms-2/files-2.1/baf61348b50f7f9875c56ce25adbd499/AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/sergioortega/.gradle/caches/transforms-2/files-2.1/bdddc04e71cb954f9deebbfef67323a5/AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:livedata:1.1.1] /Users/sergioortega/.gradle/caches/transforms-2/files-2.1/bdddc04e71cb954f9deebbfef67323a5/AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/sergioortega/.gradle/caches/transforms-2/files-2.1/62ae5a6fd5a2c3bb29924c84bc6abddb/AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /Users/sergioortega/.gradle/caches/transforms-2/files-2.1/62ae5a6fd5a2c3bb29924c84bc6abddb/AndroidManifest.xml:20:5-44
-MERGED from [android.arch.core:runtime:1.1.1] /Users/sergioortega/.gradle/caches/transforms-2/files-2.1/e73050f956a00ac0d193d847ae8b00ea/AndroidManifest.xml:20:5-44
-MERGED from [android.arch.core:runtime:1.1.1] /Users/sergioortega/.gradle/caches/transforms-2/files-2.1/e73050f956a00ac0d193d847ae8b00ea/AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/sergioortega/.gradle/caches/transforms-2/files-2.1/78054c2d459b6fb4ea0c810c141732f6/AndroidManifest.xml:20:5-44
-MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /Users/sergioortega/.gradle/caches/transforms-2/files-2.1/78054c2d459b6fb4ea0c810c141732f6/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:documentfile:28.0.0] /Users/sergioortega/.gradle/caches/transforms-2/files-2.1/a479bce8985d7662ac13ad3c9f8c2bf3/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:documentfile:28.0.0] /Users/sergioortega/.gradle/caches/transforms-2/files-2.1/a479bce8985d7662ac13ad3c9f8c2bf3/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/sergioortega/.gradle/caches/transforms-2/files-2.1/e7106d53ee1e2c9832045da46d3261fa/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:localbroadcastmanager:28.0.0] /Users/sergioortega/.gradle/caches/transforms-2/files-2.1/e7106d53ee1e2c9832045da46d3261fa/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:print:28.0.0] /Users/sergioortega/.gradle/caches/transforms-2/files-2.1/e5b2c3d903db37495709020220e0a621/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:print:28.0.0] /Users/sergioortega/.gradle/caches/transforms-2/files-2.1/e5b2c3d903db37495709020220e0a621/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:interpolator:28.0.0] /Users/sergioortega/.gradle/caches/transforms-2/files-2.1/1b38873176e85012dbb1daa16366a953/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:interpolator:28.0.0] /Users/sergioortega/.gradle/caches/transforms-2/files-2.1/1b38873176e85012dbb1daa16366a953/AndroidManifest.xml:20:5-44
-INJECTED from /Users/sergioortega/AndroidStudioProjects/MemoryGameKotlin/app/src/main/AndroidManifest.xml
-INJECTED from /Users/sergioortega/AndroidStudioProjects/MemoryGameKotlin/app/src/main/AndroidManifest.xml
+INJECTED from /home/mxrampage/StudioProjects/MemoryGameKotlin/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/mxrampage/StudioProjects/MemoryGameKotlin/app/src/main/AndroidManifest.xml
+INJECTED from /home/mxrampage/StudioProjects/MemoryGameKotlin/app/src/main/AndroidManifest.xml
+MERGED from [androidx.databinding:databinding-adapters:4.1.1] /home/mxrampage/.gradle/caches/transforms-2/files-2.1/6216e9621a12786946ff5402fc2f033b/databinding-adapters-4.1.1/AndroidManifest.xml:22:5-44
+MERGED from [androidx.databinding:databinding-adapters:4.1.1] /home/mxrampage/.gradle/caches/transforms-2/files-2.1/6216e9621a12786946ff5402fc2f033b/databinding-adapters-4.1.1/AndroidManifest.xml:22:5-44
+MERGED from [androidx.databinding:databinding-runtime:4.1.1] /home/mxrampage/.gradle/caches/transforms-2/files-2.1/9aac24eb91e4f879977a5bf5b9c37157/databinding-runtime-4.1.1/AndroidManifest.xml:22:5-44
+MERGED from [androidx.databinding:databinding-runtime:4.1.1] /home/mxrampage/.gradle/caches/transforms-2/files-2.1/9aac24eb91e4f879977a5bf5b9c37157/databinding-runtime-4.1.1/AndroidManifest.xml:22:5-44
+MERGED from [androidx.databinding:viewbinding:4.1.1] /home/mxrampage/.gradle/caches/transforms-2/files-2.1/9add5d775da135dd49082ba631b3ac18/jetified-viewbinding-4.1.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.databinding:viewbinding:4.1.1] /home/mxrampage/.gradle/caches/transforms-2/files-2.1/9add5d775da135dd49082ba631b3ac18/jetified-viewbinding-4.1.1/AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-fragment-ktx:2.3.2] /home/mxrampage/.gradle/caches/transforms-2/files-2.1/dc38711550f81f23f431b9a0b8abcaa7/navigation-fragment-ktx-2.3.2/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-fragment-ktx:2.3.2] /home/mxrampage/.gradle/caches/transforms-2/files-2.1/dc38711550f81f23f431b9a0b8abcaa7/navigation-fragment-ktx-2.3.2/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment-ktx:1.2.5] /home/mxrampage/.gradle/caches/transforms-2/files-2.1/aff6b9b189533e67a2bb73851b2d7df8/jetified-fragment-ktx-1.2.5/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment-ktx:1.2.5] /home/mxrampage/.gradle/caches/transforms-2/files-2.1/aff6b9b189533e67a2bb73851b2d7df8/jetified-fragment-ktx-1.2.5/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-ui-ktx:2.3.2] /home/mxrampage/.gradle/caches/transforms-2/files-2.1/454710d49ee0c1cac77bf91d5f9f39da/navigation-ui-ktx-2.3.2/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-ui-ktx:2.3.2] /home/mxrampage/.gradle/caches/transforms-2/files-2.1/454710d49ee0c1cac77bf91d5f9f39da/navigation-ui-ktx-2.3.2/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-runtime-ktx:2.3.2] /home/mxrampage/.gradle/caches/transforms-2/files-2.1/79a9301c3b5e685cb554a8a59b473142/navigation-runtime-ktx-2.3.2/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-runtime-ktx:2.3.2] /home/mxrampage/.gradle/caches/transforms-2/files-2.1/79a9301c3b5e685cb554a8a59b473142/navigation-runtime-ktx-2.3.2/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity-ktx:1.1.0] /home/mxrampage/.gradle/caches/transforms-2/files-2.1/85ae74c57985692f1fa3c5b181e73cd3/jetified-activity-ktx-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity-ktx:1.1.0] /home/mxrampage/.gradle/caches/transforms-2/files-2.1/85ae74c57985692f1fa3c5b181e73cd3/jetified-activity-ktx-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-common-ktx:2.3.2] /home/mxrampage/.gradle/caches/transforms-2/files-2.1/53956b02398def7684b897dbb018fca4/navigation-common-ktx-2.3.2/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-common-ktx:2.3.2] /home/mxrampage/.gradle/caches/transforms-2/files-2.1/53956b02398def7684b897dbb018fca4/navigation-common-ktx-2.3.2/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core-ktx:1.3.2] /home/mxrampage/.gradle/caches/transforms-2/files-2.1/bc7f87090ca34390094702bb2008170d/jetified-core-ktx-1.3.2/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.core:core-ktx:1.3.2] /home/mxrampage/.gradle/caches/transforms-2/files-2.1/bc7f87090ca34390094702bb2008170d/jetified-core-ktx-1.3.2/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.2.0] /home/mxrampage/.gradle/caches/transforms-2/files-2.1/7d67ad7ac45429e60c202009faa29f2d/jetified-lifecycle-livedata-core-ktx-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.2.0] /home/mxrampage/.gradle/caches/transforms-2/files-2.1/7d67ad7ac45429e60c202009faa29f2d/jetified-lifecycle-livedata-core-ktx-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.2.0] /home/mxrampage/.gradle/caches/transforms-2/files-2.1/48520777e74a5e5088f9597951bf8191/jetified-lifecycle-viewmodel-ktx-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.2.0] /home/mxrampage/.gradle/caches/transforms-2/files-2.1/48520777e74a5e5088f9597951bf8191/jetified-lifecycle-viewmodel-ktx-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.2.0] /home/mxrampage/.gradle/caches/transforms-2/files-2.1/bc4dc3d0cdd01db84c64a8bb8a66f7b9/jetified-lifecycle-runtime-ktx-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.2.0] /home/mxrampage/.gradle/caches/transforms-2/files-2.1/bc4dc3d0cdd01db84c64a8bb8a66f7b9/jetified-lifecycle-runtime-ktx-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] /home/mxrampage/.gradle/caches/transforms-2/files-2.1/83ee536ff85059f31aed7ca0e988de80/constraintlayout-2.0.4/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.0.4] /home/mxrampage/.gradle/caches/transforms-2/files-2.1/83ee536ff85059f31aed7ca0e988de80/constraintlayout-2.0.4/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.navigation:navigation-ui:2.3.2] /home/mxrampage/.gradle/caches/transforms-2/files-2.1/235caf6e6ae91723124fa11cd961b2d6/navigation-ui-2.3.2/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-ui:2.3.2] /home/mxrampage/.gradle/caches/transforms-2/files-2.1/235caf6e6ae91723124fa11cd961b2d6/navigation-ui-2.3.2/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.material:material:1.0.0] /home/mxrampage/.gradle/caches/transforms-2/files-2.1/7d3af674982b76d3f3fb4dc62ed30fe5/material-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.0.0] /home/mxrampage/.gradle/caches/transforms-2/files-2.1/7d3af674982b76d3f3fb4dc62ed30fe5/material-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.2.0] /home/mxrampage/.gradle/caches/transforms-2/files-2.1/c6e850bffee516928e276ea7faf33a10/appcompat-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.2.0] /home/mxrampage/.gradle/caches/transforms-2/files-2.1/c6e850bffee516928e276ea7faf33a10/appcompat-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.2.0] /home/mxrampage/.gradle/caches/transforms-2/files-2.1/b1b153a2fc9fd35e23337c581a6cd8cf/lifecycle-extensions-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-extensions:2.2.0] /home/mxrampage/.gradle/caches/transforms-2/files-2.1/b1b153a2fc9fd35e23337c581a6cd8cf/lifecycle-extensions-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] /home/mxrampage/.gradle/caches/transforms-2/files-2.1/4017b1e91d552349d272b023704f46a0/recyclerview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.0.0] /home/mxrampage/.gradle/caches/transforms-2/files-2.1/4017b1e91d552349d272b023704f46a0/recyclerview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /home/mxrampage/.gradle/caches/transforms-2/files-2.1/bbf4878879392771fd012fc1a72ad860/legacy-support-core-ui-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] /home/mxrampage/.gradle/caches/transforms-2/files-2.1/bbf4878879392771fd012fc1a72ad860/legacy-support-core-ui-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/mxrampage/.gradle/caches/transforms-2/files-2.1/3399da4652887216b1f15e9fea5a64cb/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/mxrampage/.gradle/caches/transforms-2/files-2.1/3399da4652887216b1f15e9fea5a64cb/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] /home/mxrampage/.gradle/caches/transforms-2/files-2.1/366542bdc63c3dbd0b09bb106fe4a8e0/jetified-appcompat-resources-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.2.0] /home/mxrampage/.gradle/caches/transforms-2/files-2.1/366542bdc63c3dbd0b09bb106fe4a8e0/jetified-appcompat-resources-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-fragment:2.3.2] /home/mxrampage/.gradle/caches/transforms-2/files-2.1/db2a5176dd11fa70694996bbf2c63971/navigation-fragment-2.3.2/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-fragment:2.3.2] /home/mxrampage/.gradle/caches/transforms-2/files-2.1/db2a5176dd11fa70694996bbf2c63971/navigation-fragment-2.3.2/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.2.5] /home/mxrampage/.gradle/caches/transforms-2/files-2.1/14eb105b29ee573fbe4f87451505304c/fragment-1.2.5/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.2.5] /home/mxrampage/.gradle/caches/transforms-2/files-2.1/14eb105b29ee573fbe4f87451505304c/fragment-1.2.5/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /home/mxrampage/.gradle/caches/transforms-2/files-2.1/f379d95d0ff945370307735e7dfa5572/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /home/mxrampage/.gradle/caches/transforms-2/files-2.1/f379d95d0ff945370307735e7dfa5572/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /home/mxrampage/.gradle/caches/transforms-2/files-2.1/6cbf3df7a545fb9e98deff97defeff25/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /home/mxrampage/.gradle/caches/transforms-2/files-2.1/6cbf3df7a545fb9e98deff97defeff25/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/mxrampage/.gradle/caches/transforms-2/files-2.1/271e6de7ce9db873cdad8b436fb11a39/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/mxrampage/.gradle/caches/transforms-2/files-2.1/271e6de7ce9db873cdad8b436fb11a39/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/mxrampage/.gradle/caches/transforms-2/files-2.1/a9f55779c108ee5eddcaf44a8396d1e0/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/mxrampage/.gradle/caches/transforms-2/files-2.1/a9f55779c108ee5eddcaf44a8396d1e0/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /home/mxrampage/.gradle/caches/transforms-2/files-2.1/0c7c4d6c761a5f35ff1701d1fe2abe7e/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /home/mxrampage/.gradle/caches/transforms-2/files-2.1/0c7c4d6c761a5f35ff1701d1fe2abe7e/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-runtime:2.3.2] /home/mxrampage/.gradle/caches/transforms-2/files-2.1/3425f4f64275ce0af03596aea0af1191/navigation-runtime-2.3.2/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-runtime:2.3.2] /home/mxrampage/.gradle/caches/transforms-2/files-2.1/3425f4f64275ce0af03596aea0af1191/navigation-runtime-2.3.2/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.1.0] /home/mxrampage/.gradle/caches/transforms-2/files-2.1/e92b80f40cbcad08b59a54beaa5f20da/jetified-activity-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.1.0] /home/mxrampage/.gradle/caches/transforms-2/files-2.1/e92b80f40cbcad08b59a54beaa5f20da/jetified-activity-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] /home/mxrampage/.gradle/caches/transforms-2/files-2.1/be488b41fa4da0b2563ef53aa9c1f1eb/drawerlayout-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] /home/mxrampage/.gradle/caches/transforms-2/files-2.1/be488b41fa4da0b2563ef53aa9c1f1eb/drawerlayout-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /home/mxrampage/.gradle/caches/transforms-2/files-2.1/7bbde01db3879457cf011db9173e3000/coordinatorlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.0.0] /home/mxrampage/.gradle/caches/transforms-2/files-2.1/7bbde01db3879457cf011db9173e3000/coordinatorlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /home/mxrampage/.gradle/caches/transforms-2/files-2.1/2017aa7308790de222499aafe519048c/slidingpanelayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] /home/mxrampage/.gradle/caches/transforms-2/files-2.1/2017aa7308790de222499aafe519048c/slidingpanelayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.1.0] /home/mxrampage/.gradle/caches/transforms-2/files-2.1/b1af35d851a7b1902f51e36b8a695b43/customview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.1.0] /home/mxrampage/.gradle/caches/transforms-2/files-2.1/b1af35d851a7b1902f51e36b8a695b43/customview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.3.0] /home/mxrampage/.gradle/caches/transforms-2/files-2.1/bf47b15611f180761b95369d1114cca0/transition-1.3.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.3.0] /home/mxrampage/.gradle/caches/transforms-2/files-2.1/bf47b15611f180761b95369d1114cca0/transition-1.3.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-common:2.3.2] /home/mxrampage/.gradle/caches/transforms-2/files-2.1/c70848dad71b32fed76e2b128d2e0161/navigation-common-2.3.2/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-common:2.3.2] /home/mxrampage/.gradle/caches/transforms-2/files-2.1/c70848dad71b32fed76e2b128d2e0161/navigation-common-2.3.2/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /home/mxrampage/.gradle/caches/transforms-2/files-2.1/16a5a28bbde50a5a8011c3cdabbd45dd/swiperefreshlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] /home/mxrampage/.gradle/caches/transforms-2/files-2.1/16a5a28bbde50a5a8011c3cdabbd45dd/swiperefreshlayout-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /home/mxrampage/.gradle/caches/transforms-2/files-2.1/220c57cc545be26c24641885e42cee89/asynclayoutinflater-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] /home/mxrampage/.gradle/caches/transforms-2/files-2.1/220c57cc545be26c24641885e42cee89/asynclayoutinflater-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.3.2] /home/mxrampage/.gradle/caches/transforms-2/files-2.1/f61aee69993eeba717147da1a6c5c8bb/core-1.3.2/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.3.2] /home/mxrampage/.gradle/caches/transforms-2/files-2.1/f61aee69993eeba717147da1a6c5c8bb/core-1.3.2/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-process:2.2.0] /home/mxrampage/.gradle/caches/transforms-2/files-2.1/d1a346107d3f3d50702f71cf732a4bab/jetified-lifecycle-process-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-process:2.2.0] /home/mxrampage/.gradle/caches/transforms-2/files-2.1/d1a346107d3f3d50702f71cf732a4bab/jetified-lifecycle-process-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-service:2.2.0] /home/mxrampage/.gradle/caches/transforms-2/files-2.1/4d2b5f6b901203aa4dad0425927369ae/jetified-lifecycle-service-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-service:2.2.0] /home/mxrampage/.gradle/caches/transforms-2/files-2.1/4d2b5f6b901203aa4dad0425927369ae/jetified-lifecycle-service-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] /home/mxrampage/.gradle/caches/transforms-2/files-2.1/a95739b442976ac2d9de40a12086ee6d/lifecycle-runtime-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.2.0] /home/mxrampage/.gradle/caches/transforms-2/files-2.1/a95739b442976ac2d9de40a12086ee6d/lifecycle-runtime-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.2.0] /home/mxrampage/.gradle/caches/transforms-2/files-2.1/33562edb2724523aa489688f428b2164/lifecycle-livedata-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.2.0] /home/mxrampage/.gradle/caches/transforms-2/files-2.1/33562edb2724523aa489688f428b2164/lifecycle-livedata-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.2.0] /home/mxrampage/.gradle/caches/transforms-2/files-2.1/933d816f20c84747cf4b75c608cb4345/jetified-lifecycle-viewmodel-savedstate-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.2.0] /home/mxrampage/.gradle/caches/transforms-2/files-2.1/933d816f20c84747cf4b75c608cb4345/jetified-lifecycle-viewmodel-savedstate-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.2.0] /home/mxrampage/.gradle/caches/transforms-2/files-2.1/5bad58fed49503834bcb7778444163d8/lifecycle-livedata-core-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.2.0] /home/mxrampage/.gradle/caches/transforms-2/files-2.1/5bad58fed49503834bcb7778444163d8/lifecycle-livedata-core-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /home/mxrampage/.gradle/caches/transforms-2/files-2.1/d54b1e1a7f5f51df407f964db1685795/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /home/mxrampage/.gradle/caches/transforms-2/files-2.1/d54b1e1a7f5f51df407f964db1685795/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] /home/mxrampage/.gradle/caches/transforms-2/files-2.1/6b104855c44408f13ab9134850e3a15c/jetified-savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.0.0] /home/mxrampage/.gradle/caches/transforms-2/files-2.1/6b104855c44408f13ab9134850e3a15c/jetified-savedstate-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.2.0] /home/mxrampage/.gradle/caches/transforms-2/files-2.1/9ef2c05b6d3d960e32ce5469d4905268/lifecycle-viewmodel-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.2.0] /home/mxrampage/.gradle/caches/transforms-2/files-2.1/9ef2c05b6d3d960e32ce5469d4905268/lifecycle-viewmodel-2.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /home/mxrampage/.gradle/caches/transforms-2/files-2.1/4a993e2718a72ba4f84b8a60ea1226c0/versionedparcelable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] /home/mxrampage/.gradle/caches/transforms-2/files-2.1/4a993e2718a72ba4f84b8a60ea1226c0/versionedparcelable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/mxrampage/.gradle/caches/transforms-2/files-2.1/c4504c46a8f8c951228c8b302e2173c2/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/mxrampage/.gradle/caches/transforms-2/files-2.1/c4504c46a8f8c951228c8b302e2173c2/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /home/mxrampage/.gradle/caches/transforms-2/files-2.1/3990a8ed717bd2bc6e24bbecabdfebbf/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /home/mxrampage/.gradle/caches/transforms-2/files-2.1/3990a8ed717bd2bc6e24bbecabdfebbf/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/mxrampage/.gradle/caches/transforms-2/files-2.1/a31c29a3471d6c5319ef70007865485e/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/mxrampage/.gradle/caches/transforms-2/files-2.1/a31c29a3471d6c5319ef70007865485e/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/mxrampage/.gradle/caches/transforms-2/files-2.1/b3f7371cde680362c540ce073b89b922/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/mxrampage/.gradle/caches/transforms-2/files-2.1/b3f7371cde680362c540ce073b89b922/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /home/mxrampage/.gradle/caches/transforms-2/files-2.1/e2e0f1f666c21bac62fa414c412f1b23/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /home/mxrampage/.gradle/caches/transforms-2/files-2.1/e2e0f1f666c21bac62fa414c412f1b23/print-1.0.0/AndroidManifest.xml:20:5-44
+INJECTED from /home/mxrampage/StudioProjects/MemoryGameKotlin/app/src/main/AndroidManifest.xml
+INJECTED from /home/mxrampage/StudioProjects/MemoryGameKotlin/app/src/main/AndroidManifest.xml
 	android:targetSdkVersion
-		INJECTED from /Users/sergioortega/AndroidStudioProjects/MemoryGameKotlin/app/src/main/AndroidManifest.xml
-		ADDED from /Users/sergioortega/AndroidStudioProjects/MemoryGameKotlin/app/src/main/AndroidManifest.xml
-		INJECTED from /Users/sergioortega/AndroidStudioProjects/MemoryGameKotlin/app/src/main/AndroidManifest.xml
+		INJECTED from /home/mxrampage/StudioProjects/MemoryGameKotlin/app/src/main/AndroidManifest.xml
+		ADDED from /home/mxrampage/StudioProjects/MemoryGameKotlin/app/src/main/AndroidManifest.xml
+		INJECTED from /home/mxrampage/StudioProjects/MemoryGameKotlin/app/src/main/AndroidManifest.xml
 	android:minSdkVersion
-		INJECTED from /Users/sergioortega/AndroidStudioProjects/MemoryGameKotlin/app/src/main/AndroidManifest.xml
-		ADDED from /Users/sergioortega/AndroidStudioProjects/MemoryGameKotlin/app/src/main/AndroidManifest.xml
-		INJECTED from /Users/sergioortega/AndroidStudioProjects/MemoryGameKotlin/app/src/main/AndroidManifest.xml
-provider#android.arch.lifecycle.ProcessLifecycleOwnerInitializer
-ADDED from [android.arch.lifecycle:extensions:1.1.1] /Users/sergioortega/.gradle/caches/transforms-2/files-2.1/a086eb5297dfee64d9793ff7737e6f39/AndroidManifest.xml:23:9-27:43
+		INJECTED from /home/mxrampage/StudioProjects/MemoryGameKotlin/app/src/main/AndroidManifest.xml
+		ADDED from /home/mxrampage/StudioProjects/MemoryGameKotlin/app/src/main/AndroidManifest.xml
+		INJECTED from /home/mxrampage/StudioProjects/MemoryGameKotlin/app/src/main/AndroidManifest.xml
+provider#androidx.lifecycle.ProcessLifecycleOwnerInitializer
+ADDED from [androidx.lifecycle:lifecycle-process:2.2.0] /home/mxrampage/.gradle/caches/transforms-2/files-2.1/d1a346107d3f3d50702f71cf732a4bab/jetified-lifecycle-process-2.2.0/AndroidManifest.xml:25:9-29:43
 	android:authorities
-		ADDED from [android.arch.lifecycle:extensions:1.1.1] /Users/sergioortega/.gradle/caches/transforms-2/files-2.1/a086eb5297dfee64d9793ff7737e6f39/AndroidManifest.xml:25:13-68
+		ADDED from [androidx.lifecycle:lifecycle-process:2.2.0] /home/mxrampage/.gradle/caches/transforms-2/files-2.1/d1a346107d3f3d50702f71cf732a4bab/jetified-lifecycle-process-2.2.0/AndroidManifest.xml:27:13-69
 	android:multiprocess
-		ADDED from [android.arch.lifecycle:extensions:1.1.1] /Users/sergioortega/.gradle/caches/transforms-2/files-2.1/a086eb5297dfee64d9793ff7737e6f39/AndroidManifest.xml:27:13-40
+		ADDED from [androidx.lifecycle:lifecycle-process:2.2.0] /home/mxrampage/.gradle/caches/transforms-2/files-2.1/d1a346107d3f3d50702f71cf732a4bab/jetified-lifecycle-process-2.2.0/AndroidManifest.xml:29:13-40
 	android:exported
-		ADDED from [android.arch.lifecycle:extensions:1.1.1] /Users/sergioortega/.gradle/caches/transforms-2/files-2.1/a086eb5297dfee64d9793ff7737e6f39/AndroidManifest.xml:26:13-37
+		ADDED from [androidx.lifecycle:lifecycle-process:2.2.0] /home/mxrampage/.gradle/caches/transforms-2/files-2.1/d1a346107d3f3d50702f71cf732a4bab/jetified-lifecycle-process-2.2.0/AndroidManifest.xml:28:13-37
 	android:name
-		ADDED from [android.arch.lifecycle:extensions:1.1.1] /Users/sergioortega/.gradle/caches/transforms-2/files-2.1/a086eb5297dfee64d9793ff7737e6f39/AndroidManifest.xml:24:13-83
+		ADDED from [androidx.lifecycle:lifecycle-process:2.2.0] /home/mxrampage/.gradle/caches/transforms-2/files-2.1/d1a346107d3f3d50702f71cf732a4bab/jetified-lifecycle-process-2.2.0/AndroidManifest.xml:26:13-79

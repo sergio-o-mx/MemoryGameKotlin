@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "/home/mxrampage/StudioProjects/MemoryGameKotlin/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/fragment_game_1.xml",
+        "source": "/home/mxrampage/StudioProjects/MemoryGameKotlin/app/src/main/res/layout/fragment_game_1.xml"
+    },
+    {
+        "merged": "/home/mxrampage/StudioProjects/MemoryGameKotlin/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/fragment_game_3.xml",
+        "source": "/home/mxrampage/StudioProjects/MemoryGameKotlin/app/src/main/res/layout/fragment_game_3.xml"
+    },
+    {
+        "merged": "/home/mxrampage/StudioProjects/MemoryGameKotlin/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/fragment_dashboard.xml",
+        "source": "/home/mxrampage/StudioProjects/MemoryGameKotlin/app/src/main/res/layout/fragment_dashboard.xml"
+    },
+    {
+        "merged": "/home/mxrampage/StudioProjects/MemoryGameKotlin/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/activity_main.xml",
+        "source": "/home/mxrampage/StudioProjects/MemoryGameKotlin/app/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/home/mxrampage/StudioProjects/MemoryGameKotlin/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/fragment_game_2.xml",
+        "source": "/home/mxrampage/StudioProjects/MemoryGameKotlin/app/src/main/res/layout/fragment_game_2.xml"
+    }
+]
